@@ -1,0 +1,9 @@
+MP_AltQ:mp_haishi_ma.txt
+MP_Anaphor:mp_baseline_female.txt,mp_baseline_male.txt,mp_pp_female.txt,mp_pp_male.txt,mp_self_female.txt,mp_self_male.txt
+MP_Anaphor/Plural:mp_baseline_cl_female.txt,mp_baseline_cl_male.txt,mp_baseline_cl_men_female.txt,mp_baseline_cl_men_male.txt,mp_baseline_men_female.txt,mp_baseline_men_male.txt,mp_cl_men_self_female.txt,mp_cl_men_self_male.txt,mp_cl_self_female.txt,mp_cl_self_male.txt,mp_menself_female.txt,mp_menself_male.txt
+MP_Aspect:mp_temporal_guo.txt,mp_temporal_le.txt,mp_zai_guo.txt,mp_zai_le.txt,mp_zai_no_le.txt
+MP_Classifier:mp_dem_cl_swap.txt,mp_cl_simple_noun.txt,mp_cl_adj_simple_noun.txt,mp_cl_comp_noun_v2.txt,mp_cl_adj_comp_noun_v2.txt
+MP_Definiteness_effect:mp_definiteness_demonstrative.txt,mp_definiteness_every.txt
+MP_Polarity_item:mp_any.txt,mp_even_wh.txt,mp_more_or_less.txt
+MP_Relative_clause:mp_rc_resumptive_noun.txt,mp_rc_resumptive_pronoun.txt
+MP_Wh_fronting:mp_bare_wh.txt,mp_mod_wh.txt

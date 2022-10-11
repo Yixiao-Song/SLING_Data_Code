@@ -18,7 +18,6 @@ source sling-venv/bin/activate
 pip install torch torchvision # currently, this is the version compatible with CUDA 10.1
 pip install transformers
 pip install nltk
-pip install --editable .
 ```
 
 ## To run the language models

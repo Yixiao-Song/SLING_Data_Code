@@ -12,10 +12,10 @@ parser.add_argument("--phenomenon", type=str, default="all_phenomena_paradigms.t
 args = parser.parse_args()
 
 # Read in paradigms.txt to create a dictionary
-with open(f"SLING_Data/{args.phenomenon}", 'r') as f:
+with open(f"SLING_Code/{args.phenomenon}", 'r') as f:
     doc = f.readlines()
 
-filename = "outputs/results_sling2.txt"
+filename = "outputs/results_sling.txt"
 
 phen_para = defaultdict()
 

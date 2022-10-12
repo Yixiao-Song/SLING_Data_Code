@@ -25,3 +25,16 @@ pip install nltk
 ```
 python SLING_Code/lm_sling.py
 ```
+
+## Citation Information
+
+If you use SLING, please cite it as follows:
+
+```
+@inproceedings{sling22,
+author={Yixiao Song and Kalpesh Krishna and Rajesh Bhatt and Mohit Iyyer},
+booktitle = {Empirical Methods in Natural Language Processing},
+Year = "2022",
+Title={SLING: Sino Linguistic Evaluation of Large Language Models},
+}
+```

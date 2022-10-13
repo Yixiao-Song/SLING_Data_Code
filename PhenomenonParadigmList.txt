@@ -18,7 +18,7 @@ Anaphor
 	    cl_men_self_male.jsonl
 	    cl_self_female.jsonl
 	    cl_self_male.jsonl
-		menself_female.jsonl
+	    menself_female.jsonl
 	    menself_male.jsonl
 Aspect
 	temporal_guo.jsonl

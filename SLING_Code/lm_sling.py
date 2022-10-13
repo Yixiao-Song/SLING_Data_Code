@@ -33,10 +33,10 @@ for sling_file in sling_files:
 # Masked LMs #
 ##############
 	masked_lm_names = ["xlm-roberta-base", "xlm-roberta-large", "bert-base-chinese", \
-						"bert-base-multilingual-cased", "hfl/chinese-pert-base", \
-						"hfl/chinese-pert-large", "Langboat/mengzi-bert-base", \
-						"Langboat/mengzi-bert-base-fin", "nghuyong/ernie-1.0-base-zh", \
-						"google/mt5-small", "google/mt5-large"]
+					   "bert-base-multilingual-cased", "hfl/chinese-pert-base", \
+					   "hfl/chinese-pert-large", "Langboat/mengzi-bert-base", \
+					   "Langboat/mengzi-bert-base-fin", "nghuyong/ernie-1.0-base-zh", \
+					   "google/mt5-small", "google/mt5-large"]
 
 	i = 1
 
@@ -50,12 +50,12 @@ for sling_file in sling_files:
 			model.eval()
 			model.cuda()
 			accuracy, good_pppl, bad_pppl = run_masked_models(model,tokenizer,\
-																good_sent,bad_sent, \
-																func_type='t5',
-																metric=args.metric)
+															  good_sent,bad_sent,\
+															  func_type='t5',\
+															  metric=args.metric)
 		else:
 			model = AutoModelForMaskedLM.from_pretrained(name,return_dict_in_generate=True,\
-															output_scores=True)
+														 output_scores=True)
 			tokenizer = AutoTokenizer.from_pretrained(name)
 			model.eval()
 			model.cuda()
@@ -87,7 +87,7 @@ for sling_file in sling_files:
 		print(f"*****Running {name}\t{i}/{len(causal_lm_names)}*****")
 
 		model = AutoModelForCausalLM.from_pretrained(name,return_dict_in_generate=True,\
-														output_scores=True)
+													 output_scores=True)
 		tokenizer = AutoTokenizer.from_pretrained(name)
 
 		model.eval()

@@ -26,6 +26,7 @@ pip install nltk
 python SLING_Code/lm_sling.py
 ```
 
+<<<<<<< HEAD
 ## Citation Information
 
 If you use SLING, please cite it as follows:
@@ -38,3 +39,7 @@ Year = "2022",
 Title={SLING: Sino Linguistic Evaluation of Large Language Models},
 }
 ```
+=======
+## To Do
+[ ] Instruction of how to run CLUECorpusSmall LSTM language model
+>>>>>>> Converted txt files to jsonl and changed the way of loading minimal pairs in .py files.

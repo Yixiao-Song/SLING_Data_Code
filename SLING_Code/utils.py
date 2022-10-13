@@ -10,6 +10,7 @@ import pdb
 import copy
 import nltk
 import torch
+import glob
 import tqdm
 import numpy as np
 from nltk import Tree
@@ -252,8 +253,7 @@ def run_causal_models(model,tokenizer,good_sent_list,bad_sent_list, metric="perp
     if metric == "perplexity":
         good_sent_score, good_lens = get_ppl(model, tokenizer, good_sent_list)
         bad_sent_score, bad_lens = get_ppl(model, tokenizer, bad_sent_list)
-        import pdb; pdb.set_trace()
-        pass
+
     elif metric == "probability":
         good_sent_score = get_prob(model, tokenizer, good_sent_list)
         bad_sent_score = get_prob(model, tokenizer, bad_sent_list)      

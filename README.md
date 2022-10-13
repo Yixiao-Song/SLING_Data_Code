@@ -31,7 +31,7 @@ python SLING_Code/gpt3_sling.py
 python SLING_Code/byt5_sling.py
 ```
 
-`lstm_sling.py` is included for reference. Details of how to run the CLUECorpusSmall LSTM language model can be found [here] (https://github.com/dbiir/UER-py/wiki/Modelzoo).
+`lstm_sling.py` is included in [`SLING_Code`](SLING_Code) for reference. Details of how to run the CLUECorpusSmall LSTM language model can be found [here](https://github.com/dbiir/UER-py/wiki/Modelzoo).
 
 ## Citation Information
 

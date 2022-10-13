@@ -39,4 +39,4 @@ Title={SLING: Sino Linguistic Evaluation of Large Language Models},
 }
 ```
 ## To Do
-[ ] Instruction of how to run CLUECorpusSmall LSTM language model
+1. [ ] Instruction of how to run CLUECorpusSmall LSTM language model

@@ -1,5 +1,5 @@
 AlternativeQuestion
-    haishi_ma.jsonl
+	haishi_ma.jsonl
 Anaphor
 	baseline_female.jsonl
 	baseline_male.jsonl
@@ -9,38 +9,38 @@ Anaphor
 	self_male.jsonl
 	Plural
 	    baseline_cl_female.jsonl
-        baseline_cl_male.jsonl
+	    baseline_cl_male.jsonl
 	    baseline_cl_men_female.jsonl
 	    baseline_cl_men_male.jsonl
-        baseline_men_female.jsonl
-        baseline_men_male.jsonl
-        cl_men_self_female.jsonl
-        cl_men_self_male.jsonl
-        cl_self_female.jsonl
-        cl_self_male.jsonl
-        menself_female.jsonl
-        menself_male.jsonl
+	    baseline_men_female.jsonl
+	    baseline_men_male.jsonl
+	    cl_men_self_female.jsonl
+	    cl_men_self_male.jsonl
+	    cl_self_female.jsonl
+	    cl_self_male.jsonl
+		menself_female.jsonl
+	    menself_male.jsonl
 Aspect
 	temporal_guo.jsonl
-    temporal_le.jsonl
-    zai_guo.jsonl
-    zai_le.jsonl
-    zai_no_le.jsonl
+	temporal_le.jsonl
+	zai_guo.jsonl
+	zai_le.jsonl
+	zai_no_le.jsonl
 Classifier-Noun
 	cl_adj_comp_noun.jsonl
-    cl_adj_comp_noun_v2.jsonl
-    cl_adj_simple_noun.jsonl
-    cl_comp_noun.jsonl
-    cl_comp_noun_v2.jsonl
-    cl_simple_noun.jsonl
-    dem_cl_swap.jsonl
+	cl_adj_comp_noun_v2.jsonl
+	cl_adj_simple_noun.jsonl
+	cl_comp_noun.jsonl
+	cl_comp_noun_v2.jsonl
+	cl_simple_noun.jsonl
+	dem_cl_swap.jsonl
 DefinitenessEffect
 	definiteness_demonstrative.jsonl
-    definiteness_every.jsonl
+	definiteness_every.jsonl
 PolarityItem
 	any.jsonl
-    even_wh.jsonl
-    more_or_less.jsonl
+	even_wh.jsonl
+	more_or_less.jsonl
 RelativeClause
 	rc_resumptive_noun.jsonl
 	rc_resumptive_pronoun.jsonl

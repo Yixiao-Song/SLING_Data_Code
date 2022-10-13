@@ -26,7 +26,12 @@ pip install nltk
 
 ```
 python SLING_Code/lm_sling.py
+python SLING_Code/PanGu_sling.py
+python SLING_Code/gpt3_sling.py
+python SLING_Code/byt5_sling.py
 ```
+
+`lstm_sling.py` is included for reference. Details of how to run the CLUECorpusSmall LSTM language model can be found [here] (https://github.com/dbiir/UER-py/wiki/Modelzoo).
 
 ## Citation Information
 
@@ -40,5 +45,3 @@ Year = "2022",
 Title={SLING: Sino Linguistic Evaluation of Large Language Models},
 }
 ```
-## To Do
-1. [ ] Instruction of how to run CLUECorpusSmall LSTM language model

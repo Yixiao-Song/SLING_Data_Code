@@ -6,6 +6,8 @@ This is the official codebase accompanying our EMNLP 2022 paper "SLING: Sino-Lin
 
 See [`SLING_Data`](SLING_Data) and the readme file in it.
 
+A complete list of all phenomea and paradigms can be found in ['PhenomenonParadigmList.txt'](SLING_Data_Code/PhenomenonParadigmList.txt)
+
 ## SLING Code
 
 See [`SLING_Code`](SLING_Code) and the readme file in it.

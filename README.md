@@ -1,6 +1,6 @@
 # SLING: Sino-Linguistic Evaluation of Large Language Models
 
-This is the official codebase accompanying our EMNLP 2022 paper "SLING: Sino-Linguistic Evaluation of Large Language Models". You can find our paper on arXiv [here](https://arxiv.org/abs/2210.11689).
+This is the official codebase accompanying our EMNLP 2022 paper "SLING: Sino-Linguistic Evaluation of Large Language Models". You can find our paper on [![arxiv](https://img.shields.io/badge/arXiv-2205.09726-b31b1b.svg)]((https://arxiv.org/abs/2210.11689).
 
 ## SLING Dataset
 

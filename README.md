@@ -48,7 +48,7 @@ Title={SLING: Sino Linguistic Evaluation of Large Language Models},
 }
 ```
 
-If you use the [reflexive_auto](SLING_Data/Anaphor/reflexive_auto) and [reflexive_natural](SLING_Data/Anaphor/reflexive_natural) data, please also cite:
+If you use the [reflexive_auto](SLING_Data/Anaphor/reflexive_auto) and [reflexive_natural](SLING_Data/Anaphor/reflexive_natural) data in the [Anaphor](SLING_Data/Anaphor) folder, please also cite:
 
 ```
 @inproceedings{yangcoling2025,

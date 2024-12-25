@@ -7,6 +7,22 @@ Anaphor
 	pp_male.jsonl
 	self_female.jsonl
 	self_male.jsonl
+	Reflexive_natural
+	    natural_local_binding_f.jsonl
+	    natural_subj_orientation.jsonl
+            natural_animacy.jsonl
+            natural_reflx_verb.jsonl
+            natural_blocking.jsonl
+            natural_local_binding_m.jsonl
+            natural_nonreflex_verb.jsonl
+        Reflexive_auto
+	    animacy.jsonl
+	    ambiguous_binding.jsonl
+	    animacy_baseline.jsonl
+	    nonreflex_verb.jsonl
+	    subj_orientation.jsonl
+	    blocking.jsonl
+	    reflex_verb.jsonl
 	Plural
 	    baseline_cl_female.jsonl
 	    baseline_cl_male.jsonl

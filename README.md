@@ -47,3 +47,14 @@ Year = "2022",
 Title={SLING: Sino Linguistic Evaluation of Large Language Models},
 }
 ```
+
+If you also use the reflexive data, please also cite:
+
+```
+@inproceedings{yangcoling2025,
+author={Xiulin Yang},
+booktitle = {International Conference on Computational Linguistics (COLING2025)},
+Year = "2025",
+Title={Language Models at the Syntax-Semantics Interface: A Case Study of the Long-Distance Binding of Chinese Reflexive ziji},
+}
+```
